@@ -2,7 +2,7 @@
 
 Personal portfolio website of Godwin Paschal Mwenda, a Computer Science student at Zetech University with training in Data Science & Analytics and Cyber Security. It showcases my web development, data and creative media work.
 
-**Live site:** <!-- add your link here, e.g. https://yourusername.github.io -->
+**Live site:** https://paschalportfolio.vercel.app
 
 ## What's on the site
 
